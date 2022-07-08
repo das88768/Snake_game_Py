@@ -1,5 +1,8 @@
 # Snake Game
 It is a simple snake game built with Python using Turtle module a Tkinter based GUI module.
+We all love games and everyone in this world atleast play game once in life time.
+Most of the people who are familier with Nokia Mobiles play snake games,
+This snake game is almost similar to that type Plyed in Nokia mobiles.
 
 ## Technologies
 This project is created with:
