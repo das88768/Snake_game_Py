@@ -21,7 +21,7 @@ To run this project on local environment:
 $ git clone https://github.com/das88768/Snake_game_Py.git
 ```
 
-* Press Enter to create your local clone.
+* Press **Enter** to create your local clone.
 
 ```
 $ git clone https://github.com/das88768/Snake_game_Py.git
@@ -35,13 +35,13 @@ $ git clone https://github.com/das88768/Snake_game_Py.git
 * And you are done with the setup.
 
 ## How to run the app
-* Open the VS-Code
+* Open the **VS-Code**
 * Go to the project cloned directory
 * And you will see something like this on your left side Explorer of vs code.
 
   ![image](https://user-images.githubusercontent.com/89207002/178002629-f396c290-a79a-4751-ad73-8cc372e8e173.png)
   
-* Open the snake_game.py
+* Open the **snake_game.py**
 * And enter the following command on terminal:
 
 ```
@@ -49,7 +49,7 @@ python snake_game.py
 ```
 
 * A tkinter GUI will appear:
-* Use W, A, S, D keys on keybord to move the snake upward, left, downward and right respectively.
+* Use **W, A, S, D** keys on keybord to move the snake **upward, left, downward and right** respectively.
 * To eat the foods (small red dots).
 
    ![image](https://user-images.githubusercontent.com/89207002/178003162-01d651c8-3320-42c4-b76c-369d1c6b5a5a.png)
