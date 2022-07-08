@@ -53,6 +53,9 @@ python snake_game.py
 * To eat the foods (small red dots).
 
    ![image](https://user-images.githubusercontent.com/89207002/178003162-01d651c8-3320-42c4-b76c-369d1c6b5a5a.png)
+   
+   ![image](https://user-images.githubusercontent.com/89207002/178011080-c0f19e27-667f-494d-9ae1-9fcd5563960c.png)
+
   
 * As the snake eat more food it will grow in size.
 
